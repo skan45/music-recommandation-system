@@ -2,8 +2,9 @@
 
 *Discover Your Next Favorite Tune Effortlessly*
 
-![Python](https://img.shields.io/badge/python-100%25-blue)  
-![Languages](https://img.shields.io/github/languages/top/skan45/music-recommandation-system)
+![Python](https://img.shields.io/badge/python-100%25-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/skan45/music-recommandation-system)
+
 
 > Built with the tools and technologies:
 >
