@@ -1,0 +1,5 @@
+python-dotenv
+spotipy
+google
+flask
+pymongo
