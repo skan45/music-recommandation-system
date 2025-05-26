@@ -2,9 +2,8 @@
 
 *Discover Your Next Favorite Tune Effortlessly*
 
-![GitHub last commit](https://img.shields.io/github/last-commit)  
 ![Python](https://img.shields.io/badge/python-100%25-blue)  
-![Languages](https://img.shields.io/github/languages/top)
+![Languages](https://img.shields.io/github/languages/top/isaak45/music-recommandation-system)
 
 > Built with the tools and technologies:
 >
