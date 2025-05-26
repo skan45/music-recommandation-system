@@ -3,7 +3,7 @@
 *Discover Your Next Favorite Tune Effortlessly*
 
 ![Python](https://img.shields.io/badge/python-100%25-blue)  
-![Languages](https://img.shields.io/github/languages/top/isaak45/music-recommandation-system)
+![Languages](https://img.shields.io/github/languages/top/skan45/music-recommandation-system)
 
 > Built with the tools and technologies:
 >
